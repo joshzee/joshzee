@@ -1,4 +1,4 @@
-<p align="center">[![MasterHead](https://cdn.openart.ai/stable_diffusion/4ec451cec528b8b67629a5a68cd5d2a168b391b6_2000x2000.webp)](https://what-film.netlifly.app/)</p>
+[![MasterHead](https://cdn.shopify.com/s/files/1/0011/6005/2795/articles/169_4_d0cdb196-4330-4709-9e44-6ad1515346b3.png?v=1642504309)](https://what-film.netlifly.app/)
 <h1 align="center">Hi 👋 from Josh</h1>
 
 
