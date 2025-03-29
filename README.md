@@ -9,7 +9,7 @@ const LOVE = 'CODING';
 
 - 🔭 I’m currently working on **Learning all the things**
 
-- 🌱 I’m currently learning ** Python/Flask, Golang, AWS**
+- 🌱 I’m currently learning **Flask, NoSQL, AWS**
 
 - 💬 Ask me about **What I'm reading 📚**
 
