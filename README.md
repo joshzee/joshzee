@@ -7,13 +7,11 @@
 const LOVE = 'CODING';
 ```
 
-- 🔭 I’m currently working on **Flask Apps**
+- 🔭 I’m currently working on **Flask Apps / Cloud Infrastructure**
 
-- 🌱 I’m currently learning **Flask, Lambda Functions, AWS DyanomoDB/S3/CloudWatch/SES**
+- 🌱 I’m currently learning **Flask, Lambda Functions, API Gateways**
 
 - 💬 Ask me about **What I'm reading 📚**
-
-- 📫 How to reach me **hi@joshcodes.me**
 
 
 
