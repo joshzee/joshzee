@@ -7,9 +7,9 @@
 const LOVE = 'CODING';
 ```
 
-- 🔭 I’m currently working on **Flask Apps / Cloud Infrastructure**
+- 🔭 I’m currently working on **Setting up my personal K8s Homelab**
 
-- 🌱 I’m currently learning **Flask, Lambda Functions, API Gateways**
+- 🌱 I’m currently learning **Docker/Kubernetes, CI/CD and Cloud Infrastructure**
 
 - 💬 Ask me about **What I'm reading 📚**
 
