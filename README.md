@@ -12,9 +12,3 @@ const LOVE = 'CODING';
 - 🌱 I’m currently learning **Docker/Kubernetes, CI/CD and Cloud Infrastructure**
 
 - 💬 Ask me about **What I'm reading 📚**
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshzee&show_icons=true&locale=en&layout=compact" alt="joshzee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshzee&show_icons=true&locale=en" alt="joshzee" /></p>
